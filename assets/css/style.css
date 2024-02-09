@@ -61,8 +61,8 @@ li {
   margin-right: auto;
   border-style: inset;
   border-width: 1px;
-  color: #328998;
-  background: #328998;
+  color: #198f7f;
+  background: #198f7f;
 }
 
 h4 {
@@ -86,21 +86,21 @@ h4 {
 .icon1 {
   text-align: center;
   color: white;
-  background-color: #328998;
+  background-color: #198f7f;
   margin-bottom: 10px;
 }
 
 .icon2 {
   text-align: center;
   color: white;
-  background-color: #328998;
+  background-color: #198f7f;
   margin-top: 10px;
   margin-bottom: 50px;
 }
 
 .card {
   margin: 0 20px;
-  background-color: #328998;
+  background-color: #198f7f;
 }
 
 .card-group {
@@ -158,7 +158,7 @@ div div div ul li {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #198f7f;
 }
 
 .typeform-widget {
@@ -177,7 +177,7 @@ div div div ul li {
   height: 50px;
   list-style: none;
   margin-top: 20px;
-  background-color: #328998;
+  background-color: #198f7f;
 }
 
 .flex-item li i {
